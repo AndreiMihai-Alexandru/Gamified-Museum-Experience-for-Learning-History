@@ -1,7 +1,3 @@
-# Gamified Museum Experience for Learning History
-A Unity-based 2D turn-based RPG set in a museum where exhibits come to
-life. Combines historical education with classic RPG mechanics, featuring
-exploration, interactive elements, and a battle system. A more engaging
-way of learning history using gamified learning.
-
-Technologies Used: Unity, C#
+version https://git-lfs.github.com/spec/v1
+oid sha256:4f24392ff70f01294a2a10e1939ee8df5d0c530b3d9c043d52182f13081990de
+size 346
